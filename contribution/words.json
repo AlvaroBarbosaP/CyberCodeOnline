@@ -398,7 +398,8 @@
 		"SLPD Animal Control",
 		"Talking Robot-Dog",
 		"Talking Robot-Cat",
-		"Murder-bot"
+		"Murder-bot",
+		"Sane Mutant"
 	],
 	"greetings": [
 		"'Sup?",
@@ -502,7 +503,10 @@
 		"*INITIALIZING HANDSHAKING PROTOCOLS*",
 		"Excuse me, I'm waiting for someone",
 		"You're late.",
-		"Look who decided to show up"
+		"Look who decided to show up",
+		"Hello there, ",
+		"Zdravstvuyte"
+		
 	],
 	"needHelp": [
 		"Are you here to help?",
@@ -546,7 +550,9 @@
 		"You- uh, need a job?",
 		"PLZ H3LP",
 		"I've fallen and I can't get up!",
-		"You've got to help me"
+		"You've got to help me",
+		"...SOS, I repeat, SOS.",
+		"If you can see this message, please"
 	],
 	"filler": [
 		"*bark*",
@@ -595,6 +601,10 @@
 		"does this look infected to you?...",
 		"...sorry",
 		"*RESETING VOICE MODULATOR*",
-		"bruh.."
+		"bruh..",
+		"Uai",
+		"[Redacted]",
+		"[Lost]",
+		"Phrasing"
 	]
 }
